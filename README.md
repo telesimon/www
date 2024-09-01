@@ -75,17 +75,87 @@ Below is the list of IoT edge service providers
 - [Ericsson IoT Accelerator](https://www.ericsson.com/en/internet-of-things)
 - [Arm Pelion IoT](https://pelion.com)
 
-Należy pamiętać, że:
 
-1. Nie wszystkie te firmy mogą oferować pełne rozwiązania white label lub API dla dystrybutorów. Niektóre mogą koncentrować się na rozwiązaniach dla IoT lub innych specyficznych zastosowaniach.
+IoT edge service providers 
 
-2. Zakres usług, możliwości API i modele biznesowe mogą się różnić między operatorami.
+- **Aerospike**: [Aerospike](https://www.aerospike.com/)
+- **Asimily**: [Asimily](https://www.asimily.com/)
+- **AT&T**: [AT&T](https://www.att.com/)
+- **Cambium Networks**: [Cambium Networks](https://www.cambiumnetworks.com/)
+- **Aarna Networks**: [Aarna Networks](https://www.aarnanetworks.com/)
+- **Adaptiv Networks**: [Adaptiv Networks](https://www.adaptiv-networks.com/)
 
-3. Niektóre z tych firm mogą wymagać nawiązania bezpośredniego kontaktu biznesowego, aby uzyskać dostęp do ich API lub oferty white label.
-
-4. Zawsze zaleca się dokładne sprawdzenie aktualnej oferty, warunków współpracy i możliwości technicznych bezpośrednio u wybranego operatora.
-
-5. Na rynku mogą pojawić się nowi gracze lub nastąpić zmiany w ofercie istniejących firm, dlatego warto śledzić na bieżąco rozwój rynku eSIM.
+These companies are known for their innovative solutions in the IoT and edge computing space
 
 
 
+Opis API dla dystrybucji eSIM w modelu white label, wraz z jego funkcjami, możliwościami i zastosowaniami:
+
+## Funkcje i możliwości API
+
+1. Zarządzanie profilami eSIM:
+   - Tworzenie nowych profili eSIM
+   - Aktywacja i dezaktywacja profili
+   - Aktualizacja danych profilu
+   - Usuwanie profili
+
+2. Zarządzanie pakietami danych:
+   - Dodawanie nowych pakietów danych do profilu
+   - Sprawdzanie stanu wykorzystania danych
+   - Przedłużanie ważności pakietów
+   - Zmiana limitów danych
+
+3. Obsługa klientów:
+   - Rejestracja nowych klientów
+   - Weryfikacja tożsamości klienta
+   - Zarządzanie danymi klientów
+   - Obsługa zgłoszeń i reklamacji
+
+4. Rozliczenia i płatności:
+   - Generowanie faktur
+   - Przetwarzanie płatności
+   - Zarządzanie saldami klientów
+   - Raportowanie finansowe
+
+5. Integracja z sieciami operatorów:
+   - Automatyczne połączenie z sieciami partnerskimi
+   - Zarządzanie umowami roamingowymi
+   - Monitorowanie jakości usług
+
+6. Raportowanie i analityka:
+   - Generowanie raportów sprzedażowych
+   - Analiza wykorzystania danych
+   - Śledzenie trendów i zachowań klientów
+
+7. Bezpieczeństwo:
+   - Szyfrowanie komunikacji
+   - Zarządzanie uprawnieniami użytkowników
+   - Monitorowanie i wykrywanie nieautoryzowanych działań
+
+## Zastosowania
+
+1. Wirtualni operatorzy komórkowi (MVNO):
+   - Umożliwienie szybkiego wejścia na rynek bez konieczności budowy własnej infrastruktury
+   - Oferowanie elastycznych planów taryfowych i pakietów danych
+
+2. Firmy z branży turystycznej:
+   - Dostarczanie turystom łatwego dostępu do lokalnych sieci komórkowych
+   - Oferowanie pakietów danych dopasowanych do długości pobytu
+
+3. Producenci urządzeń IoT:
+   - Zapewnienie globalnej łączności dla urządzeń internetu rzeczy
+   - Zarządzanie połączeniami i zużyciem danych na dużą skalę
+
+4. Korporacje międzynarodowe:
+   - Zarządzanie połączeniami pracowników w różnych krajach
+   - Optymalizacja kosztów roamingu
+
+5. Firmy technologiczne:
+   - Integracja usług eSIM z własnymi aplikacjami i platformami
+   - Tworzenie innowacyjnych rozwiązań opartych na łączności mobilnej
+
+6. Dystrybutorzy telekomunikacyjni:
+   - Rozszerzenie oferty o usługi eSIM
+   - Dostarczanie kompleksowych rozwiązań connectivity dla klientów biznesowych
+
+API dla dystrybucji eSIM w modelu white label umożliwia firmom szybkie wdrożenie i zarządzanie usługami eSIM pod własną marką, bez konieczności budowania całej infrastruktury od podstaw. Zapewnia elastyczność w tworzeniu ofert, zarządzaniu klientami i optymalizacji procesów biznesowych związanych z łącznością mobilną.
