@@ -36,6 +36,9 @@ Show the mesh secure connection for IoT devices, sensors, cameras, cars
    - **Modernity**: It is modern and also hints at high-tech, advanced applications.
 
 
+IoT,eSIM,EdgeComputing,SmartConnectivity,TechInnovation,IoTSecurity,EdgeCloud,ConnectedDevices,SmartSolutions,M2M,Telecom,IoTNetworks,SecureIoT,AIoT,MachineLearning,5G,SmartTechnology,EdgeAI,IndustrialIoT,SmartCities,IoTPlatforms,DigitalTransformation,WirelessTech,RemoteMonitoring,SaaS
+
+
 
 ## branża
 
