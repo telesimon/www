@@ -2,6 +2,23 @@
 
 ![svgviewer-png-output(2)](https://github.com/user-attachments/assets/f9a29d10-0621-4adc-af3f-98b565cf4032)
 
+## logo
+
+grafika w formie kropek w hexagonie, symbolizujace urządzenia
+
+brand name: telesimon
+motto: eSIM-Driven IoT
+
+Show the mesh secure connection for IoT devices, sensors, cameras, cars 
+
+#### Mesh Network Icon
+- **Central node**: This represents a central hub in the IoT network.
+- **Connecting lines**: These lines represent the mesh connectivity, indicating how devices are interconnected.
+- **Peripheral nodes**: Represent additional devices like sensors, cameras, and cars.
+- **Device Icons**: Simple representations of IoT devices around the peripheral nodes to symbolize different types of connected devices (like cameras, sensors, and cars).
+- 
+
+## branża
 
 
 lista operatorów eSIM oferujących API dla dystrybutorów white label wraz z linkami URL. 
