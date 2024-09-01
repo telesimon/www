@@ -6,12 +6,22 @@
 
 
 [Internet of Things (IoT) Control Center - Cisco](https://www.cisco.com/c/en/us/solutions/internet-of-things/iot-control-center.html#~customer-stories)
+
 [Cisco IoT Starter Kit](https://m2m.com/)
+
 [GigSky: eSIM dla lokalnej i regionalnej łączności smartfonów](https://www.gigsky.com/)
+
 [Ubigi: eSIM data plans in 200+ destinations worldwide](https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/)
+
 [Ubigi - Top Up Your Ubigi eSIM Data Plan Account](https://cellulardata.ubigi.com/top-up/)
+
 [What is the Difference between eSIM and Embedded SIM in IoT? | Twilio](https://www.twilio.com/en-us/blog/difference-esim-embedded-sim)
+
 [Connectivity meets technology | Truphone](https://www.truphone.com/)
+
+[IoT Hacking Series #2: eSIM Supported Hardware — 1oT](https://1ot.com/resources/blog/iot-hacking-series-2-esim-supported-hardware)
+
+[1oT eSIM – Ultimate Flexibility For Your IoT Business — 1oT](https://1ot.com/connectivity/esim#tech-overview)
 
 
 ## logo
