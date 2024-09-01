@@ -17,9 +17,9 @@ Your piece of the internet
 
 [Ubigi - Top Up Your Ubigi eSIM Data Plan Account](https://cellulardata.ubigi.com/top-up/)
 
-[What is the Difference between eSIM and Embedded SIM in IoT? | Twilio](https://www.twilio.com/en-us/blog/difference-esim-embedded-sim)
+[What is the Difference between eSIM and Embedded SIM in IoT? Twilio](https://www.twilio.com/en-us/blog/difference-esim-embedded-sim)
 
-[Connectivity meets technology | Truphone](https://www.truphone.com/)
+[Connectivity meets technology - Truphone](https://www.truphone.com/)
 
 [IoT Hacking Series #2: eSIM Supported Hardware — 1oT](https://1ot.com/resources/blog/iot-hacking-series-2-esim-supported-hardware)
 
@@ -37,6 +37,9 @@ Your piece of the internet
 
 [ST4SIM: SIM & eSIM cellular connectivity portfolio - STMicroelectronics](https://www.st.com/content/st_com/en/ecosystems/st4sim-cellular-connectivity/product-portfolio.html#2)
 
+[eSIM for IoT: Everything You Need to Know - Velos IoT](https://velosiot.com/everything-you-need-to-know-about-esim-for-iot/)
+
+[Industrial IoT solution: a gateway to production efficiency](https://secomea.com/industrial-iot-gateway/)
 
 
 ## logo
