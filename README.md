@@ -42,6 +42,14 @@ Your piece of the internet
 [Industrial IoT solution: a gateway to production efficiency](https://secomea.com/industrial-iot-gateway/)
 
 
+[Keepgo eSIM White Label Editions](https://www.keepgo.com/pages/keepgo-esim-white-label-editions)
+
+
+[eSIM Reseller Program - White Label Solution | Maya Mobile](https://maya.net/business/esim-reseller)
+
+[esimcard](https://esimcard.com/partners/)
+
+
 ## logo
 
 grafika w formie kropek w hexagonie, symbolizujace urządzenia
