@@ -28,6 +28,16 @@ Your piece of the internet
 [White Label SIM - Wholesale and Agent Services with a Hosted Software as a Service Platform for Broadband Internet, Mobile, TV & Wireless](https://whitelabelsim.com/)
 
 
+[SIM & eSIM Connectivity Partners - ST4SIM - STMicroelectronics](https://www.st.com/content/st_com/en/ecosystems/st4sim-cellular-connectivity/partners.html#3)
+
+[Wireless Logic - STMicroelectronics](https://www.st.com/content/st_com/en/partner/partner-program/partnerpage/wireless-logic.html)
+
+[ST4SIM: SIM & eSIM cellular connectivity portfolio - STMicroelectronics](https://www.st.com/content/st_com/en/ecosystems/st4sim-cellular-connectivity.html?icmp=tt27092_gl_pron_jun2022#1)
+
+[ST4SIM: SIM & eSIM cellular connectivity portfolio - STMicroelectronics](https://www.st.com/content/st_com/en/ecosystems/st4sim-cellular-connectivity/product-portfolio.html#2)
+
+
+
 ## logo
 
 grafika w formie kropek w hexagonie, symbolizujace urządzenia
