@@ -1,5 +1,7 @@
 # www.telesimon.com
 
+Your piece of the internet
+
 ![svgviewer-png-output(2)](https://github.com/user-attachments/assets/f9a29d10-0621-4adc-af3f-98b565cf4032)
 
 ## offer
