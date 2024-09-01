@@ -11,6 +11,8 @@ motto: eSIM-Driven IoT
 
 Show the mesh secure connection for IoT devices, sensors, cameras, cars 
 
+**eSIM-Driven IoT** mottos emphasizes Telesimon’s focus on enhancing IoT solutions with the integration of eSIM technology and Edge Cloud capabilities, highlighting the seamless connectivity, enhanced monitoring, and security features.
+ 
 #### Mesh Network Icon
 - **Central node**: This represents a central hub in the IoT network.
 - **Connecting lines**: These lines represent the mesh connectivity, indicating how devices are interconnected.
