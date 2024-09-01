@@ -2,6 +2,18 @@
 
 ![svgviewer-png-output(2)](https://github.com/user-attachments/assets/f9a29d10-0621-4adc-af3f-98b565cf4032)
 
+## offer
+
+
+[Internet of Things (IoT) Control Center - Cisco](https://www.cisco.com/c/en/us/solutions/internet-of-things/iot-control-center.html#~customer-stories)
+[Cisco IoT Starter Kit](https://m2m.com/)
+[GigSky: eSIM dla lokalnej i regionalnej łączności smartfonów](https://www.gigsky.com/)
+[Ubigi: eSIM data plans in 200+ destinations worldwide](https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/)
+[Ubigi - Top Up Your Ubigi eSIM Data Plan Account](https://cellulardata.ubigi.com/top-up/)
+[What is the Difference between eSIM and Embedded SIM in IoT? | Twilio](https://www.twilio.com/en-us/blog/difference-esim-embedded-sim)
+[Connectivity meets technology | Truphone](https://www.truphone.com/)
+
+
 ## logo
 
 grafika w formie kropek w hexagonie, symbolizujace urządzenia
@@ -433,9 +445,6 @@ Integracja eSIM z oprogramowaniem firmy wymaga użycia platform i narzędzi, kt�
 - **Zapier**: Łączy dane z systemu zarządzania flotą (Geotab) i platformy eSIM (Cisco IoT Control Center) z systemem ERP (SAP). Automatyzuje proces zakupu pakietów danych na okresy międzynarodowych podróży pojazdów, uruchamiając przepływy pracy w oparciu o dane z GPS i historię użytkowania pojazdów.
 - **Azure Logic Apps**: Automatyzuje aktualizacje statusu pojazdu i zużycia danych na platformie zarządzania flotą oraz przesyła te dane do systemu ERP w celu zoptymalizowanego zarządzania kosztami i zasobami.
 
-
-
-[Internet of Things (IoT) Control Center - Cisco](https://www.cisco.com/c/en/us/solutions/internet-of-things/iot-control-center.html#~customer-stories)
 
 
 
