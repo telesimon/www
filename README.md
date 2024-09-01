@@ -302,7 +302,9 @@ eSIM ma szanse stać się standardem tam gdzie jest potrzeba przemieszczania si�
 
 
 eSIM, dzięki swojej elastyczności i możliwości zdalnego zarządzania, idealnie nadaje się do zastosowań, w których istnieje potrzeba mobilności i korzystania z połączeń międzynarodowych. Oto przykłady zastosowań w kontekście ludzi, pojazdów i maszyn:
- przykłady, które korzystają z połączeń międzynarodowych w różnych krajach z powodu konieczności bycia mobilnym w kontekście ludzi, pojazdów i  maszyn
+przykłady, które korzystają z połączeń międzynarodowych w różnych krajach z powodu konieczności bycia mobilnym w kontekście ludzi, pojazdów i  maszyn
+oferta wymaga integracji z oprogramowaniem firmy, aby było można zakupić w sposób planowany odpowiednie pakiety, 
+przykłady integracji i listę oprogramowania, gdzie trzeba zrobić integrację, podaj platformy, gdzie można to zautomatyzować z przykładami
 
 ### Ludzie
 
