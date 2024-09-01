@@ -27,6 +27,7 @@ Your piece of the internet
 
 [White Label SIM - Wholesale and Agent Services with a Hosted Software as a Service Platform for Broadband Internet, Mobile, TV & Wireless](https://whitelabelsim.com/)
 
+[M2M-SIM-Karten - Eine Karte - alle Netze | SIM4IOT](https://www.sim4iot.de/)
 
 [SIM & eSIM Connectivity Partners - ST4SIM - STMicroelectronics](https://www.st.com/content/st_com/en/ecosystems/st4sim-cellular-connectivity/partners.html#3)
 
