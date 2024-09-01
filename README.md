@@ -159,3 +159,29 @@ Opis API dla dystrybucji eSIM w modelu white label, wraz z jego funkcjami, możl
    - Dostarczanie kompleksowych rozwiązań connectivity dla klientów biznesowych
 
 API dla dystrybucji eSIM w modelu white label umożliwia firmom szybkie wdrożenie i zarządzanie usługami eSIM pod własną marką, bez konieczności budowania całej infrastruktury od podstaw. Zapewnia elastyczność w tworzeniu ofert, zarządzaniu klientami i optymalizacji procesów biznesowych związanych z łącznością mobilną.
+
+
+## Gateways
+
+Using an eSIM WiFi gateway for your IP camera can be a great way to ensure a stable and flexible internet connection.
+
+1. **MOGO S2 eSIM Global Mobile Router**:
+   - **Features**: Supports 4G, download speeds up to 150 Mbps, and upload speeds up to 50 Mbps. It has a 2000mAh battery and a USB-C port for charging.
+   - **Pros**: Small size, fast internet, and a display showing important information.
+   - **Cons**: Only supports MOGO eSIMs, which might limit its use in some countries¹.
+
+2. **eSunFi eSIM Mobile WiFi Hotspot Router**:
+   - **Features**: Dual-band WiFi, supports Bluetooth and VPN, and allows up to 10 devices to connect simultaneously. It supports 3G and 4G networks with a maximum WiFi rate of 433 Mbps.
+   - **Pros**: Works in over 200 countries, quick charging via USB-C, and a display for network speed, signal strength, and battery percentage¹.
+
+3. **GlocalMe UPP 4G Mobile WiFi Router**:
+   - **Features**: No SIM card needed, no roaming fees, and includes 1GB global and 8GB EU data. It works in over 200 countries.
+   - **Pros**: Easy to use, no need for a physical SIM card².
+
+These devices can help you set up a reliable WiFi connection for your IP camera, ensuring you can monitor your camera feed remotely without interruptions. If you need help configuring your IP camera on the network, you can refer to guides that explain how to set up the default gateway and subnet mask³.
+
+(1) Best eSIM Hotspot Routers in 2023 (For Remote Work & Travel). https://expertworldtravel.com/best-esim-routers/.
+(2) Die 5 besten Mobiler Wlan Router Mit Esim - August 2024 - Klarersieger. https://klarersieger.de/product/mobiler-wlan-router-mit-esim/.
+(3) How to Configure IP Cameras on the Network: A Complete Guide. https://www.spottersecurity.com/blog/configure-ip-cameras-local-network/.
+(4) NearSens Gateway, 4G, eSIM, SIM-Steckplatz, WiFi, Batterie - bitelec. https://bitelec.ch/de/alarmzentralen/2155-nearsens-gateway-4g-esim-sim-steckplatz-wifi-batterie.\
+
