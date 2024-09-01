@@ -57,6 +57,24 @@ Oto lista niektórych znanych operatorów eSIM oferujących rozwiązania white l
 10. Celitech
     URL: https://www.celitech.com/
 
+Below is the list of IoT edge service providers 
+
+- [Google Cloud Platform (GCP)](https://cloud.google.com)
+- [Amazon Web Services (AWS)](https://aws.amazon.com)
+- [Microsoft Azure](https://azure.microsoft.com)
+- [IBM Watson IoT](https://ibm.com/watson)
+- [Cisco](https://cisco.com)
+- [Twilio IoT](https://www.twilio.com/iot)
+- [HPE (Hewlett Packard Enterprise)](https://hpe.com)
+- [EdgeIQ](https://edgeiq.io)
+- [Particle](https://particle.io)
+- [Adafruit Industries](https://adafruit.com)
+- [Losant](https://losant.com)
+- [ThingSpeak (MathWorks)](https://thingspeak.com)
+- [Open Systems](https://open-systems.com)
+- [Ericsson IoT Accelerator](https://www.ericsson.com/en/internet-of-things)
+- [Arm Pelion IoT](https://pelion.com)
+
 Należy pamiętać, że:
 
 1. Nie wszystkie te firmy mogą oferować pełne rozwiązania white label lub API dla dystrybutorów. Niektóre mogą koncentrować się na rozwiązaniach dla IoT lub innych specyficznych zastosowaniach.
